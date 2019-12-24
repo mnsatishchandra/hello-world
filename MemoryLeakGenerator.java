@@ -1,3 +1,4 @@
+/*Memory leak generation*/
 package com.smarsh.perftraining.examples;
 import java.util.HashMap;
 import java.util.Map;
